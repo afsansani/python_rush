@@ -40,17 +40,17 @@ obj1.circle(20)
 obj1.circle(10)
 obj1.circle(5)
 
-#turtles falling into abyss
+# turtles falling into abyss
 t1.forward(25)
 t2.forward(25)
 
-t1.left(60) #60 deg rotation
+t1.left(60)  # 60 deg rotation
 t2.left(60)  # 60 deg rotation
 
 t1.forward(50)
-#needs more angles and length
+# needs more angles and length
 t1.left(30)
-t1.fd(20) #write forward or mini version - fd 
+t1.fd(20)  # write forward or mini version - fd
 
 t2.forward(50)
 
